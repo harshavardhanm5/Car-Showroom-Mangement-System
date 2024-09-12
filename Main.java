@@ -14,7 +14,7 @@ public class Main
     static void main_menu()
     {
         System.out.println();
-        System.out.println("======================= *** WELCOME TO SHOWROOM MANAGEMENT SYSTEM *** =======================");
+        System.out.println("======================= *** WELCOME TO CAR SHOWROOM MANAGEMENT SYSTEM *** =======================");
         System.out.println();
         System.out.println("=============================== *** ENTER YOUR CHOICE *** ===============================");
         System.out.println();
